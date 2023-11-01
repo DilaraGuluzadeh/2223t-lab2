@@ -5,7 +5,7 @@ int main()
 int puan;
 printf("puanı girin: ");
 scanf("%d",&puan);
-if (sayi>=50)
+if (puan>=50)
     printf("gecdi");
  else
   printf("kaldı");
